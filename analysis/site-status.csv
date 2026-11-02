@@ -1,0 +1,5 @@
+site_id,reef,limit_c,accepted_samples,hot_samples,episodes,latest_at,latest_c,status
+BAY-1,Azure Bank,28.0,5,3,1,2026-08-10T04:45Z,27.9,RECOVERED
+BAY-2,Kelp Gate,24.5,4,3,1,2026-08-10T03:00Z,27.0,WATCH
+BAY-3,Coral Step,29.0,3,3,1,2026-08-10T03:00Z,30.0,WATCH
+BAY-4,Lagoon East,30.0,4,3,1,2026-08-10T09:30Z,33.0,WATCH

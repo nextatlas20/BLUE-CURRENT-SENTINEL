@@ -1,0 +1,5 @@
+episode_id,site_id,reef,start_at,end_at,samples,peak_c,excess_c,contact
+E001,BAY-2,Kelp Gate,2026-08-10T00:15Z,2026-08-10T01:45Z,2,26.7,2.2,Pavel
+E002,BAY-3,Coral Step,2026-08-10T00:30Z,2026-08-10T01:00Z,2,31.2,2.2,Sora
+E003,BAY-1,Azure Bank,2026-08-10T01:00Z,2026-08-10T02:10Z,2,29.2,1.2,Imani
+E004,BAY-4,Lagoon East,2026-08-10T06:30Z,2026-08-10T07:45Z,2,32.4,2.4,Theo
